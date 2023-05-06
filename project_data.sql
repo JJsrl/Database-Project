@@ -1,3 +1,4 @@
+--By Jacob Johnston
 insert into employee values
 ('Manager', 'Smith', 'Dan', '1234567890', '10-DEC-1977', '117 Spring Ave');
 insert into employee values
