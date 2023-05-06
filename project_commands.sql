@@ -1,3 +1,4 @@
+--By Jacob Johnston
 select * from employee;
 
 select * from event_packages;
