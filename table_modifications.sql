@@ -1,3 +1,4 @@
+--By Jacob Johnston
 alter table event_packages
 drop primary key;
 alter table event_packages
