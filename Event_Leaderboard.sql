@@ -1,3 +1,4 @@
+--By Jacob Johnston
 --Event Leaderboard
 SELECT e.lname, e.fname, COUNT(es.event_no) AS events_worked
 FROM employee e, event_staff es
